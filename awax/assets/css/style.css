@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 
-body div{
-    overflow: hidden;
+html{
+    overflow-x: hidden;
 }
 
 body{
