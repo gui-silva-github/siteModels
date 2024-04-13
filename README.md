@@ -19,3 +19,7 @@ These websites can be used as templates or starting points for new projects, ena
 # B7 Burger
 
 [https://burger-delicious.netlify.app/]
+
+# Awax
+
+[https://awax-models.netlify.app/]
