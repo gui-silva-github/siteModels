@@ -15,3 +15,7 @@ These websites can be used as templates or starting points for new projects, ena
 # Xamazon
 
 [https://xamazon.netlify.app/]
+
+# B7 Burger
+
+[https://burger-delicious.netlify.app/]
