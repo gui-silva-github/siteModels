@@ -4,10 +4,14 @@
     box-sizing: border-box;
 }
 
+body div{
+    overflow: hidden;
+}
+
 body{
+    overflow-x: hidden;
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     font-size: 13px;
-    overflow-x: hidden;
 }
 
 header{
@@ -1104,10 +1108,11 @@ footer{
     }
 
     .section-companies--area{
-        flex-direction: column;
+        flex-wrap: wrap;
     }
 
     .section-company{
+        min-width: 50%;
         margin-bottom: 25px;
     }
 
@@ -1117,11 +1122,11 @@ footer{
 
     .section-price{
         flex-direction: column;
-        margin-left: 20px;
     }
 
     .section-price--item{
         margin-bottom: 15px;
+        width: 100%;
     }
 
     .section-premium .slidearea{
@@ -1157,6 +1162,10 @@ footer{
         margin-bottom: 20px;
     }
 
+    .section-contact form{
+        margin-left: 20px;
+    }
+
     .section-contact--split{
         display: flex;
         flex-direction: column;
@@ -1189,6 +1198,10 @@ footer{
 
     .section-map--info-item:last-child{
         margin-bottom: 0;
+    }
+
+    .footer-social{
+        justify-content: center;
     }
 
     .footer--area{
