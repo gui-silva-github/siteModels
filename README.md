@@ -22,4 +22,4 @@ These websites can be used as templates or starting points for new projects, ena
 
 # Awax
 
-[https://awax-models.netlify.app/]
+[https://site-awaxb.netlify.app/]
